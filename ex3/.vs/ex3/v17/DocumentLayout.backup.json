@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maks\\Documents\\GitHub\\30-task-for-exam-_\\ex3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85C42B9D-C508-4070-90E1-B58FD1E2EC74}|ex3\\ex3.vcxproj|C:\\Users\\maks\\Documents\\GitHub\\30-task-for-exam-_\\ex3\\ex3\\ex3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85C42B9D-C508-4070-90E1-B58FD1E2EC74}|ex3\\ex3.vcxproj|solutionrelative:ex3\\ex3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex3.cpp",
+              "DocumentMoniker": "C:\\Users\\maks\\Documents\\GitHub\\30-task-for-exam-_\\ex3\\ex3\\ex3.cpp",
+              "RelativeDocumentMoniker": "ex3\\ex3.cpp",
+              "ToolTip": "C:\\Users\\maks\\Documents\\GitHub\\30-task-for-exam-_\\ex3\\ex3\\ex3.cpp",
+              "RelativeToolTip": "ex3\\ex3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-30T23:18:11.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
