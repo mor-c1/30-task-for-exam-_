@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maks\\Documents\\GitHub\\30-task-for-exam-_\\ex6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A9DA8D5-B092-451D-9022-69FD16CEACB0}|ex6\\ex6.vcxproj|C:\\Users\\maks\\Documents\\GitHub\\30-task-for-exam-_\\ex6\\ex6\\ex6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A9DA8D5-B092-451D-9022-69FD16CEACB0}|ex6\\ex6.vcxproj|solutionrelative:ex6\\ex6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex6.cpp",
+              "DocumentMoniker": "C:\\Users\\maks\\Documents\\GitHub\\30-task-for-exam-_\\ex6\\ex6\\ex6.cpp",
+              "RelativeDocumentMoniker": "ex6\\ex6.cpp",
+              "ToolTip": "C:\\Users\\maks\\Documents\\GitHub\\30-task-for-exam-_\\ex6\\ex6\\ex6.cpp",
+              "RelativeToolTip": "ex6\\ex6.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-02T16:50:40.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
