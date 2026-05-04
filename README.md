@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/j3pN2KXdozYAAAPo/re-zero-subaru-natsuki.gif" width="500" alt="demo"/>
+<img src="./re-zero-subaru-natsuki.gif" width="500" alt="demo"/>
 
 ## I'm on the Internet
 
