@@ -2,7 +2,7 @@
 
 <img src="./aura-monster.gif" width="500" alt="demo"/>
 
-## I'm on the Internet
+### I'm on the Internet
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/carts47)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/804775427470000188)
