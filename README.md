@@ -1,6 +1,6 @@
 ## The main pillar of the project
 
-<img src="./discipline.gif" width="500" alt="demo"/>
+<img src="./assets/discipline.gif" width="500" alt="demo"/>
 
 ## 📚 Задачи по c++ (все что нужно сделать)
 
