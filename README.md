@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./re-zero-subaru-natsuki.gif" width="500" alt="demo"/>
+<img src="./aura-monster.gif" width="500" alt="demo"/>
 
 ## I'm on the Internet
 
