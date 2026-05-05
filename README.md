@@ -1,4 +1,8 @@
-## 📚 Задачи по c++
+## The main pillar of the project
+
+<img src="./assets/discipline.gif" width="500" alt="demo"/>
+
+## 📚 Задачи по c++ (все что нужно сделать)
 
 ### Массивы и матрицы
 - Вариант 1 — Двумерный динамический массив (float)
