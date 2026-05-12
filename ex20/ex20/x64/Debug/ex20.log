@@ -1,0 +1,6 @@
+﻿  ex20.cpp
+C:\Users\maks\Documents\GitHub\30-task-for-exam-_\ex20\ex20\ex20.cpp(26,18): warning C4566: символ, представленный универсальным именем символа "\u00B2", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maks\Documents\GitHub\30-task-for-exam-_\ex20\ex20\ex20.cpp(27,18): warning C4566: символ, представленный универсальным именем символа "\u00B2", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maks\Documents\GitHub\30-task-for-exam-_\ex20\ex20\ex20.cpp(28,18): warning C4566: символ, представленный универсальным именем символа "\u00B3", невозможно представить в текущей кодовой странице (1251)
+C:\Users\maks\Documents\GitHub\30-task-for-exam-_\ex20\ex20\ex20.cpp(38,18): warning C4566: символ, представленный универсальным именем символа "\u00B2", невозможно представить в текущей кодовой странице (1251)
+  ex20.vcxproj -> C:\Users\maks\Documents\GitHub\30-task-for-exam-_\ex20\x64\Debug\ex20.exe
