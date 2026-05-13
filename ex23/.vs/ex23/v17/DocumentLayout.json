@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maks\\Documents\\GitHub\\30-task-for-exam-_\\ex23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE18E867-B476-436C-8835-53D75CADA9D8}|ex23\\ex23.vcxproj|C:\\Users\\maks\\Documents\\GitHub\\30-task-for-exam-_\\ex23\\ex23\\ex23.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE18E867-B476-436C-8835-53D75CADA9D8}|ex23\\ex23.vcxproj|solutionrelative:ex23\\ex23.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex23.cpp",
+              "DocumentMoniker": "C:\\Users\\maks\\Documents\\GitHub\\30-task-for-exam-_\\ex23\\ex23\\ex23.cpp",
+              "RelativeDocumentMoniker": "ex23\\ex23.cpp",
+              "ToolTip": "C:\\Users\\maks\\Documents\\GitHub\\30-task-for-exam-_\\ex23\\ex23\\ex23.cpp",
+              "RelativeToolTip": "ex23\\ex23.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-13T20:01:38.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
