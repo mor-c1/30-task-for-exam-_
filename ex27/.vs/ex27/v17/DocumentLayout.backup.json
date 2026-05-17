@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maks\\Documents\\GitHub\\30-task-for-exam-_\\ex27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99FD7F2D-0E71-41FE-A22B-48836AF19EF2}|ex27\\ex27.vcxproj|C:\\Users\\maks\\Documents\\GitHub\\30-task-for-exam-_\\ex27\\ex27\\ex27.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99FD7F2D-0E71-41FE-A22B-48836AF19EF2}|ex27\\ex27.vcxproj|solutionrelative:ex27\\ex27.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex27.cpp",
+              "DocumentMoniker": "C:\\Users\\maks\\Documents\\GitHub\\30-task-for-exam-_\\ex27\\ex27\\ex27.cpp",
+              "RelativeDocumentMoniker": "ex27\\ex27.cpp",
+              "ToolTip": "C:\\Users\\maks\\Documents\\GitHub\\30-task-for-exam-_\\ex27\\ex27\\ex27.cpp",
+              "RelativeToolTip": "ex27\\ex27.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-17T20:25:22.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
