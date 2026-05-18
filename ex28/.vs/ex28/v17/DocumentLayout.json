@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maks\\Documents\\GitHub\\30-task-for-exam-_\\ex28\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F609DD4-487B-43C8-9BCB-5E164AAF5A7B}|ex28\\ex28.vcxproj|C:\\Users\\maks\\Documents\\GitHub\\30-task-for-exam-_\\ex28\\ex28\\ex28.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F609DD4-487B-43C8-9BCB-5E164AAF5A7B}|ex28\\ex28.vcxproj|solutionrelative:ex28\\ex28.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex28.cpp",
+              "DocumentMoniker": "C:\\Users\\maks\\Documents\\GitHub\\30-task-for-exam-_\\ex28\\ex28\\ex28.cpp",
+              "RelativeDocumentMoniker": "ex28\\ex28.cpp",
+              "ToolTip": "C:\\Users\\maks\\Documents\\GitHub\\30-task-for-exam-_\\ex28\\ex28\\ex28.cpp",
+              "RelativeToolTip": "ex28\\ex28.cpp",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-18T20:33:29.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
